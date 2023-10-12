@@ -1,8 +1,8 @@
-"""YAML table and course list table
+"""yaml-table directive for Sphinx/docutils
 """
 from __future__ import print_function
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 try:
     from StringIO import StringIO
